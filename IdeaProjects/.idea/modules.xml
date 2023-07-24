@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program/Program.iml" filepath="$PROJECT_DIR$/Program/Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoDoElevador/ProjetoDoElevador.iml" filepath="$PROJECT_DIR$/ProjetoDoElevador/ProjetoDoElevador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Resumao/Resumao.iml" filepath="$PROJECT_DIR$/Resumao/Resumao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Resume/Resume.iml" filepath="$PROJECT_DIR$/Resume/Resume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividade011/atividade011.iml" filepath="$PROJECT_DIR$/atividade011/atividade011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividade06/atividade06.iml" filepath="$PROJECT_DIR$/atividade06/atividade06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividade08/atividade08.iml" filepath="$PROJECT_DIR$/atividade08/atividade08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividade09/atividade09.iml" filepath="$PROJECT_DIR$/atividade09/atividade09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividade30/atividade30.iml" filepath="$PROJECT_DIR$/atividade30/atividade30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atv008/atv008.iml" filepath="$PROJECT_DIR$/atv008/atv008.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula07/aula07.iml" filepath="$PROJECT_DIR$/aula07/aula07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadora02/calculadora02.iml" filepath="$PROJECT_DIR$/calculadora02/calculadora02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cardCredit/cardCredit.iml" filepath="$PROJECT_DIR$/cardCredit/cardCredit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cds/cds.iml" filepath="$PROJECT_DIR$/cds/cds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cursojava01/cursojava01.iml" filepath="$PROJECT_DIR$/cursojava01/cursojava01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estatico003/estatico003.iml" filepath="$PROJECT_DIR$/estatico003/estatico003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exesrcicio002/exesrcicio002.iml" filepath="$PROJECT_DIR$/exesrcicio002/exesrcicio002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hj/hj.iml" filepath="$PROJECT_DIR$/hj/hj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/khglkjhlj/khglkjhlj.iml" filepath="$PROJECT_DIR$/khglkjhlj/khglkjhlj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maratona/maratona.iml" filepath="$PROJECT_DIR$/maratona/maratona.iml" />
+      <module fileurl="file://$PROJECT_DIR$/novoProjeto/novoProjeto.iml" filepath="$PROJECT_DIR$/novoProjeto/novoProjeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/outroCurso/outroCurso.iml" filepath="$PROJECT_DIR$/outroCurso/outroCurso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polimorfismo/polimorfismo.iml" filepath="$PROJECT_DIR$/polimorfismo/polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teste0001/teste0001.iml" filepath="$PROJECT_DIR$/teste0001/teste0001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zc/zc.iml" filepath="$PROJECT_DIR$/zc/zc.iml" />
+    </modules>
+  </component>
+</project>
