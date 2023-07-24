@@ -23,5 +23,6 @@ public class aplication {
         System.out.println(p01);
         System.out.println(p02);
         System.out.println(p03);
+        System.out.println(c03);
     }
 }
