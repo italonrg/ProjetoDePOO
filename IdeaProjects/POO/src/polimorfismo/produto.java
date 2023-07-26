@@ -20,7 +20,7 @@ public abstract class produto implements taxavel{
     }
 
     @Override
-    public double calcularImposto() {
+    public double calcularImposto() {//Isso e um metodo abstrato ; classes abstratas tem metodos abstratos
         return 0;
     }
 
@@ -32,5 +32,13 @@ public abstract class produto implements taxavel{
     public produto setValor(double valor) {
         this.valor = valor;
         return this;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public double getValor() {
+        return valor;
     }
 }
