@@ -2,7 +2,7 @@ package MetodosAbstratos;
 
 public class retangle extends Shape {
 
-private double largura;
+private double larguras;
 private double altura;
 
     public retangle(double altura, double largura, MetodosAbstratos.color color) {
@@ -10,21 +10,21 @@ private double altura;
     }
 
     public retangle(double largura, double altura) {
-        this.largura = largura;
+        this.larguras = largura;
         this.altura = altura;
     }
 
     @Override
     public double area() {
-        return largura*altura;
+        return larguras *altura;
     }
 
-    public double getLargura() {
-        return largura;
+    public double getLarguras() {
+        return larguras;
     }
 
-    public void setLargura(double largura) {
-        this.largura = largura;
+    public void setLarguras(double larguras) {
+        this.larguras = larguras;
     }
 
     public double getAltura() {

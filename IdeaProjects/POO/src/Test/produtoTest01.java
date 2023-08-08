@@ -25,7 +25,7 @@ public class produtoTest01 {
         *
         *
         * */
-        computador Computador= new computador("pcdaXUXA",5.000);
+        computador Computador= new computador("pc batata",5.000);
         tomate Tomate = new tomate("cerja",10);
 
 
