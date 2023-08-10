@@ -1,2 +1,7 @@
-package interfacesNA;public class DefautMetodos {
+package interfacesNA;
+
+public class DefautMetodos {
+    public static void main(String[] args) {
+
+    }
 }
