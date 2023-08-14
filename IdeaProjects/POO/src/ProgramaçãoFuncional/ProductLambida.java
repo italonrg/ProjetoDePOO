@@ -1,12 +1,10 @@
 package ProgramaçãoFuncional;
 
-import java.util.Locale;
-
-public class Product {//todo:public class Product implements Comparable <Product:Não se esqueça de passar a classe para o Comaprable se não o "get" não funciona;
+public class ProductLambida {//todo:public class Product implements Comparable <Product:Não se esqueça de passar a classe para o Comaprable se não o "get" não funciona;
     private String name;
     private Double price;
 
-    public Product(String name, Double price) {
+    public ProductLambida(String name, Double price) {
         this.name = name;
         this.price = price;
     }
