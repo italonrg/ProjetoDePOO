@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-231.9225.16">
+    <data-source name="JDBC-Connectors" uuid="46113a70-b052-4e65-aee8-bd9ecda68224">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="HSQLDB" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>Eu</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="database" qname="@" />
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+  </component>
+</project>

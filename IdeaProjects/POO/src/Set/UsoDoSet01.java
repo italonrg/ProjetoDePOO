@@ -22,7 +22,7 @@ public class UsoDoSet01 {
         System.out.println(e);
 
 
-        Set<String> XXX = new TreeSet<>(Arrays.asList("mary","Jonas","Amicia","Hugo","Anna"));
+        Set<String> XXX = new TreeSet<>(Arrays.asList("mary","Jonas","Amicia","Hugo","Anna"));//todo: Estes são os arreios que serão unidos XXX/PPP;
         Set<String> PPP = new TreeSet<>(Arrays.asList("Carrot","Potato","Garlic","Banana","Apple"));
 
         //todo: fazendo uma uniaão entre os elementos;
